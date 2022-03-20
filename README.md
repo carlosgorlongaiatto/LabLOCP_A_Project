@@ -1,4 +1,4 @@
-# South-California earthquakes data analysis.
+# South-California earthquakes data analysis
 
 ## Authors:
 - [Eugenio Fella](https://github.com/eugeniofella)
