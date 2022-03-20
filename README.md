@@ -1,7 +1,7 @@
 # South-California earthquakes data analysis.
 
 ## Authors:
-- [Eugenio Fella]()
-- [Matteo Pedrazzi]()
-- [Gaetano Ricucci]()
-- [Carlo Sgorlon Gaiatto]()
+- [Eugenio Fella](https://github.com/eugeniofella)
+- [Matteo Pedrazzi](https://github.com/matteopedrazzi)
+- [Gaetano Ricucci](https://github.com/gae-ric)
+- [Carlo Sgorlon Gaiatto](https://github.com/carlosgorlongaiatto)
